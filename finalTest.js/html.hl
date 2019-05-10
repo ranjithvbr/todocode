@@ -1,0 +1,68 @@
+<DOCTYPE! html>
+  <html>
+  <head>
+    <title>4th of July Baked Beans</title>
+  </head>
+    <body>
+      <img src="https://raw.githubusercontent.com/Microsoft/frontend-bootcamp/master/step1-01/exercise/baked_beans.jpg" alt="baked_beans">
+      
+      <p>It's great how a single meal can take you back dozens of years. This is one of those recipes that never seems to fail to impress.</p>
+      
+      
+<p>I learned this recipe from the cousin of one of my college friends back in Nashville Tennessee. We had an amazing 4th of July feast which included this recipe and some bratwurst like these Wisconsin Beer Brats https://www.culinaryhill.com/wisconsin-beer-brats</p>
+      
+      <h3>Services:</h3>
+      
+        <nav>
+          <ul>
+        <li>Prep Time: 10 minutes</li>
+        <li>Cook time: 3+ hours</li>
+        <li>Servings: 12</li>
+          </ul>
+        </nav>
+      <header>
+      <h3>Ingredients:</h3>
+        <nav>
+          <ul>
+        <li>1LB Bacon chopped</li>
+        <li>3 Cans Bush's Original Baked Beans</li>
+        <li>1 Walla Wall Onion chopped</li>
+        <li>3 ground garlic cloves</li>
+        <li>4 Tablespoons of mustard</li>
+        <li>3 Tablespoons of molasses</li>
+        <li>4 Tablespoons of brown sugar</li>
+          </ul>
+        </nav>
+        </header>
+      
+      <main><h3>Directions:</h3>
+      
+      <ol>
+<li>Cook bacon until it is mostly cooked, then drain most of the grease and put aside
+<li>Cook onion in remaining bacon grease
+<li>Combine onions and bacon, then add garlic, cook for a few more minutes
+<li>Add beans and get up to simmer temperature
+<li>Add mustard until your beans are nice and yellow
+<li>Add molasses until color darkens again
+<li>Add brown sugar until properly sweet
+<li>Simmer for a long time, occasionally stirring
+  </ol></main>
+      
+      
+      <p><b>Expert Tips:</b>
+Burning off most of the liquid gives you nice, hearty, sticky beans.
+If the beans get too dry, you can always add beer!</p>
+
+   
+
+      <footer>
+        <p>Nutritional Information:</p>
+       <pre>        Calories: lots
+             Fat: lots
+             Fun: lots</pre>
+
+      </footer>  
+      
+      
+     </body>
+  </html>  
